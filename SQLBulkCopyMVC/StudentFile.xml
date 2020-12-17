@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <Student Id="1">
+    <Name>Ajit Mishra</Name>
+    <Phone>9999999999</Phone>
+    <Address>Delhi</Address>
+    <Class>MCA</Class>
+  </Student>
+  <Student Id="2">
+    <Name>Aakash Mishra</Name>
+    <Phone>9123456789</Phone>
+    <Address>Delhi</Address>
+    <Class>BTech</Class>
+  </Student>
+  <Student Id="3">
+    <Name>Sachin Sen</Name>
+    <Phone>9123499999</Phone>
+    <Address>Mumbai</Address>
+    <Class>Bsc</Class>
+  </Student>
+  <Student Id="4">
+    <Name>James Wisdom</Name>
+    <Phone>9123499007</Phone>
+    <Address>London</Address>
+    <Class>Ms</Class>
+  </Student>
+</data>
